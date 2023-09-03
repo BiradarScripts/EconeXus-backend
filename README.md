@@ -36,7 +36,7 @@ To establish a vitually connection amongst the neXus members
 4)structing the files of backend.\
 5)Errors during the interconnection.\
 
-  ### `future scope`
+  ### `future scope`....
   1)Adding chat feature.\
 2)Adding the like,share and comment features.\
 3)community feature-\
